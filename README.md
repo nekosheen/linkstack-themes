@@ -22,3 +22,6 @@ https://github.com/nekosheen/PaperBold/
 https://github.com/nekosheen/Rainbow/
 ![image](https://github.com/user-attachments/assets/0e69b901-0ed5-4898-8f66-d8a5a76b6db7)
 
+## Smile
+https://github.com/nekosheen/Smile
+![image](https://github.com/user-attachments/assets/0abd6532-29f9-4130-b602-a1f7f6ead215)
