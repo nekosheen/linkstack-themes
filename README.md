@@ -29,3 +29,7 @@ https://github.com/nekosheen/Smile
 ## Synthblood
 https://github.com/nekosheen/Synthblood
 ![image](https://github.com/user-attachments/assets/a6b98df7-6d56-4ea3-8c8f-52ca1c5ae369)
+
+## BackToSchool
+https://github.com/nekosheen/BackToSchool
+![image](https://github.com/user-attachments/assets/5cee41ae-96bf-40ba-9e2f-d20e42ecb0df)
