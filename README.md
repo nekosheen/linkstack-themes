@@ -25,3 +25,7 @@ https://github.com/nekosheen/Rainbow/
 ## Smile
 https://github.com/nekosheen/Smile
 ![image](https://github.com/user-attachments/assets/0abd6532-29f9-4130-b602-a1f7f6ead215)
+
+## Synthblood
+https://github.com/nekosheen/Synthblood
+![image](https://github.com/user-attachments/assets/a6b98df7-6d56-4ea3-8c8f-52ca1c5ae369)
